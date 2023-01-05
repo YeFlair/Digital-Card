@@ -26,7 +26,7 @@ function App() {
     </Card>
     <footer className ="footer--links" >
     <a href='https://www.youtube.com/@CoolTableNerd' target="_blank" rel="noreferrer"><i class="bi bi-youtube"></i></a>
-    <a href='https://medium.com/@CoolTableNerd' target="_blank" rel="noreferrer"><i class="bi bi-medium"></i></a>
+    <a href='https://medium.com/@CoolTableNerd' target="_blank" rel="noreferrer"><i class="bi bi-newspaper"></i></a>
     <a href='https://www.instagram.com/cooltablenerd' target="_blank" rel="noreferrer"><i class="bi bi-instagram"></i></a>
     <a href='https://www.github.com/yeflair' target="_blank" rel="noreferrer"><i class="bi bi-github"></i></a>
     </footer>
