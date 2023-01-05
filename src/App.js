@@ -18,7 +18,7 @@ function App() {
           <a href="mailto:corbindac@gmail.com"><button className= "button--links btn btn-primary bi-envelope"> Email</button></a>
         <a href="https://www.linkedin.com/in/daryl-corbin/" target="_blank" rel="noreferrer"><button className="button--links btn btn-primary bi-linkedin" > LinkedIn</button></a>
         <h6 className = "card--about"><u>About:</u></h6>
-        <p className="about--section">I'm a full-stack developer based in Los Angeles, CA. I'm a freelancing self-taught/coding boot camp graduate open for employment. I created this digital card by using Javascript / React / Bootstrap.</p>
+        <p className="about--section">Im a full-stack developer based in Los Angeles, CA. I'm a freelancing self-taught/coding boot camp graduate open for employment. I created this digital card by using Javascript / React / Bootstrap.</p>
         <h6 className="card--intrest"><u>Intrest:</u></h6>
         <p className="interest--section">My interest includes socializing, but I prefer solo movie trips. I'm a gamer (console:ps5) and into sneakers. I collect funko pops (majority: The Office characters), and the Los Angles Lakers/Rams are the greatest teams in their sport. </p>
         </Card.Text>
