@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <Card style={{width: '18rem' }}>
-      <Card.Img variant="top" src={img1} />
+      <Card.Img variant="top" src={img1} class="img-fluid" alt="Responsive image"/>
       <Card.Body class="card--body">
         <Card.Title class ="card--title"><p class="h3">Daryl Corbin</p></Card.Title>
         <Card.Text class="card--text">
